@@ -1,5 +1,5 @@
 # Food Delivery App
- Ordering your favorite meals is usually inconvenient due to outdated ordering methods, limited menu options, and the issues you face in tracking your orders. Restaurants also struggle with order management and customer satisfaction, which calls for a modern solution. Our project aims to address these problems by developing a user-friendly **Food Delivery Application**. This app facilitates the process of ordering food for both sides: customers and restaurants.
+ Ordering your favorite meals is usually inconvenient due to outdated ordering methods, limited menu options, and the issues you face in tracking your orders. Restaurants also struggle with order management and customer satisfaction, which calls for a modern solution. Our project aims to address these problems by developing a user-friendly **Food Delivery platform**. This app facilitates the process of ordering food for both sides: customers and restaurants.
  
  ## Features
 1. User Registration: Secure account management for users.

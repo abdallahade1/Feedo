@@ -3,7 +3,7 @@
 import React, { useContext, useState, useEffect } from 'react';
 import RestaurantCard from './RestaurantCard';
 import { RestaurantContext } from '../contexts/RestaurantContext';
-import PreviousOrders from './PreviousOders';
+import PreviousOrders from './PreviousOrders';
 
 
 const RestaurantList = () => {

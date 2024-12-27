@@ -30,6 +30,7 @@
     cursor: pointer;
 }
 
+
 .footer-content-right h2, .footer-content-center h2{
     color: white;
 }
@@ -44,5 +45,16 @@
     margin: 20px 0px;
     background-color: grey;
     border: none;
+}
+
+@media (max-width: 750px){
+    .footer-content{
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+    }
+    .footer-copyright{
+        text-align: center;
+    }
 }
 

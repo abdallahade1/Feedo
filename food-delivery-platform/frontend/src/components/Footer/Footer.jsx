@@ -18,17 +18,17 @@ const Footer = () => {
             <div className="footer-content-center">
                 <h2>COMPANY</h2>
                 <ul>
-                    <il>Home</il>
-                    <il>About us</il>
-                    <il>Delivery</il>
-                    <il>Privacy policy</il>
+                    <li>Home</li>
+                    <li>About us</li>
+                    <li>Delivery</li>
+                    <li>Privacy policy</li>
                 </ul>
             </div>
             <div className="footer-content-right">
                 <h2>GET IN TOUCH</h2>
                 <ul>
-                    <il>+20-102-998-7336</il>
-                    <il>contact@feedo.com</il>
+                    <li>+20-102-998-7336</li>
+                    <li>contact@feedo.com</li>
                 </ul>
             </div>
         </div>

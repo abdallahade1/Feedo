@@ -5,7 +5,7 @@
     margin-top: 30px;
 }
 
-.explore-menu h{
+.explore-menu h1{
     color: #262626;
     font-weight: 500;
 }
@@ -41,7 +41,7 @@
     margin-top: 10px;
     color: #747474;
     font-size: max(1.4vw, 16px);
-    cure: pointer;
+    cursor: pointer;
 }
 
 .explore-menu hr{

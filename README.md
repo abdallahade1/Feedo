@@ -60,8 +60,11 @@ cd food-delivery-platform
 cd frontend
 npm install
 
-cd backend
+cd admin
 npm install
+
+cd backend
+npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon  can this command cause any problem if sth is already installed
 ```
 
 ### Run the Development Server

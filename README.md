@@ -64,7 +64,7 @@ cd admin
 npm install
 
 cd backend
-npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon  can this command cause any problem if sth is already installed
+npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
 ```
 
 ### Run the Development Server

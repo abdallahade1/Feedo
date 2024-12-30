@@ -80,7 +80,17 @@ npm run dev
 cd admin
 npm run dev
 ```
-
+### Stripe Configuration
+1. **Create a [Stripe](https://stripe.com) Account** if you don't have one.
+2. **Get Your API Keys**:
+   - Log in to the [Stripe Dashboard](https://dashboard.stripe.com/).
+   - Navigate to the **Developers** section and click on **API Keys**.
+   - Copy the **Publishable key** and **Secret key**.
+3. **Set Your Keys**:
+Add the keys to your project's environment variables. For example, in backend/`.env`:
+     ```
+     STRIPE_SECRET_KEY=your_secret_key
+     ```
 ---
 
 ## 👨‍💻 Developers

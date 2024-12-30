@@ -11,16 +11,18 @@ Welcome to **Feedo**, a dynamic and user-friendly food delivery platform built u
 1. ✅ **Add Items**: Admins can easily add new items to the menu.
 2. ✅ **Remove Items**: Remove outdated or unavailable items.
 3. ✅ **List Available Items**: View all available items in the menu.
-4. ✅ **Manage Orders**: View and manage orders with status updates.
+4. ✅ **View Orders**: Display all orders along with their statuses.
+5. ✅ **Update Order Status**: Modify the status of the orders.
 
 ### 🛍️ **User Features**
 1. ✅ **User Registration**: Create an account to access features.
 2. ✅ **Browsing Menus**: Explore the rich and customizable menu options.
-3. ✅ **Order Placement**: Place orders w
-4. ✅ **Secure Payment Options**: Integrated with **Stripe** for secure payments.
-5. ✅ **Order Tracking**: Monitor the real-time status of your orders.
-6. ✅ **Order History**: View past orders and their details.
-7. ✅ **Interactive Interface**: Optimized for mobile devices and smaller screens.
+3. ✅ **Cart Page View**: Users can view and manage items in their cart before placing an order.
+4. ✅ **Order Placement**: Place orders 
+5. ✅ **Secure Payment Options**: Integrated with **Stripe** for secure payments.
+6. ✅ **Order Tracking**: Monitor the real-time status of your orders.
+7. ✅ **Order History**: View past orders and their details.
+8. ✅ **Interactive Interface**: Optimized for mobile devices and smaller screens.
 
 ### 🛠️ **Planned Features**
 1. 🚧 **Usage of Promocodes**: Apply discount codes for exclusive offers.
